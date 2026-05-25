@@ -203,7 +203,7 @@ while (zx2 + zy2 <= EscapeRadius && it < maxIt) {
 
 Проект використовує:
 
-- C++17 compiler
+- C++23 compiler
 - CMake `3.16+`
 - SFML `3.x` з модулями `Graphics`, `Window`, `System`
 - Відеодрайвер з підтримкою OpenGL shaders
